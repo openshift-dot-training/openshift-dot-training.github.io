@@ -1,0 +1,1 @@
+# openshift-dot-training.github.io
