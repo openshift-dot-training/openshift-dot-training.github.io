@@ -1,5 +1,7 @@
 theme: jekyll-theme-minimal
 title: OpenShift Training
-description: Bookmark this to keep an eye on my project updates!
+description: Remote theme
 
+plugins:
+  - jekyll-remote-theme
 remote_theme: openshift-dot-training/feeling-responsive
