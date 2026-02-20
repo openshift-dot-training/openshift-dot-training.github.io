@@ -3,4 +3,4 @@ description: Remote theme
 
 plugins:
   - jekyll-remote-theme
-remote_theme: openshift-dot-training/feeling-responsive
+remote_theme: gdgmanagua/jekyll-mdl@gh-pages
