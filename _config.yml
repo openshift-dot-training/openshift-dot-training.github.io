@@ -1,5 +1,5 @@
 title: OpenShift Training
-description: Remote theme
+description: OpenShift OKD
 
 plugins:
   - jekyll-remote-theme
